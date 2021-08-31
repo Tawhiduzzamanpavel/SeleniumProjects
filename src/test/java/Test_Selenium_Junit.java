@@ -15,7 +15,7 @@ public class Test_Selenium_Junit {
     WebDriver driver ;
     @Before
     public void setup(){
-        System.setProperty("webdriver.chrome.driver", "H:/SDET/SDET_Projects/Selenium_Junit/src/test/resources/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "./src/test/resources/chromedriver.exe");
         ChromeOptions ops=new ChromeOptions();
         ops.addArguments("--headed");
         driver=new ChromeDriver(ops);

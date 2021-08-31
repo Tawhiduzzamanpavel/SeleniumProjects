@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test_Selenium_Junit" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-08-31T06:21:29" hostname="PAVEL" time="0.06">
+<testsuite name="Test_Selenium_Junit" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-08-31T06:38:08" hostname="PAVEL" time="0.057">
   <properties/>
-  <testcase name="getTitle()" classname="Test_Selenium_Junit" time="0.06">
+  <testcase name="getTitle()" classname="Test_Selenium_Junit" time="0.057">
     <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
 	at Test_Selenium_Junit.getTitle(Test_Selenium_Junit.java:27)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
